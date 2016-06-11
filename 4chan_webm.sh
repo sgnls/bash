@@ -3,7 +3,6 @@
 # v1.0
 # - Download webms from 4chan/gif/page ;-)
 
-
 # !
 echo "Building environment..."
 mkdir -p $PWD/src
