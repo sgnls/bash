@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# v1.0
+# v1.1
 # - Download webms from 4chan/gif/page ;-)
 
 # !
