@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Download webms from 4chan/gif/page ;-)
+
 mkdir -p $PWD/src
 mkdir -p $PWD/groups
 
