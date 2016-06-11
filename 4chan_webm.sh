@@ -19,3 +19,6 @@ echo "Downloading files..."
 for i in $(cat $PWD/src/$gn | grep -oP '/gif/[^"]*.webm' | uniq);
 	do wget -q --show-progress -P $PWD/groups/$gn http://i.4cdn.org/$i;
 done
+
+# sort
+echo "OK."
